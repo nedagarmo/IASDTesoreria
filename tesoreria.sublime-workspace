@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nedagarmo/Downloads/FullCalendar_MVC 2/FullCalendar_MVC/Controllers/HomeController.cs",
+		"/Users/nedagarmo/Downloads/FullCalendar_MVC 2/FullCalendar_MVC/Models/DiaryEvents.cs",
+		"/Users/nedagarmo/Desktop/csstickeos.css",
+		"/private/var/folders/86/yjcghgw91sjbf4m1p1k1crlr0000gn/T/fz3temp-1/phpgen_settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/system/reports/rpt_consignment.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/core/server.classes/login.server.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/wnotas/system/modules/configurations/window.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/wnotas/core/service.classes/notes.current.service.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/forgot_password.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/system/reports/rpt_users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/stylesheets/report.style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/core/server.classes/modules.server.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/stylesheets/desktop.style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/stylesheets/general.style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/libraries/php_report_generator/phpReportGen.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/system/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/stylesheets/login.style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/javascripts/report.functions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/javascripts/general.functions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/system/reports/rpt_usuarios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/tesoreria/exit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/reportes/usage.php",
+		"/Users/nedagarmo/Downloads/index.html",
+		"/Users/nedagarmo/Downloads/ValidadorContable/WEB-INF/classes/com/sgm/validador/configuracion.properties",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/gescom/index.php",
+		"/Users/nedagarmo/Downloads/unipagos.20140520.sql",
+		"/Volumes/nedagarmo/base.sql",
+		"/Volumes/nedagarmo/backup06022014_last.sql",
+		"/Volumes/nedagarmo/documents/enterprises/histrion internacional/projects/cnmh/Actualización 27-01-2014/resumen.txt",
+		"/Users/nedagarmo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/nedagarmo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"re",
+			"none",
+			"datos",
+			"font-size",
+			"CSSTableGenerator",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"data",
+			"datos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

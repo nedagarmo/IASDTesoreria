@@ -1,0 +1,22 @@
+/*
+    Sistema de Tesorería
+    Copyright 2014, Nelson David Garzón Mosquera.  Todos los derechos reservados.
+    Iglesia Adventista del Séptimo Día
+
+    Created on : 21/02/2014, 09:04:12 PM
+    Author     : nedagarmo
+*/
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif;
+    font-size:12px;
+    background:#f4f4f4 url(../images/bg.gif) repeat top left;
+    color:#333;
+    text-shadow:1px 1px 1px #fff;
+    overflow-y:scroll;
+}
+
